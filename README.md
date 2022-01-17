@@ -1,2 +1,3 @@
 # powerfull5
 Diligent,Loyal, Reliable. I am always the first person my friends call because they know I am always there for them. ...
+this my firts commit
